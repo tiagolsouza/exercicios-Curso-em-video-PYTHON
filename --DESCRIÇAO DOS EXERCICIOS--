@@ -20,10 +20,62 @@ DESCRIÇAO DOS EXERCICIOS
 
 #010 Programa que leia um valor em reais e converta em dollares.
 
-#011 Programa que leia a largura e a altura, em metros, de uma parede, calcule sua área e a quentidade de tinta necessaria para pinta-la, sabendo que cada litro de tinta pinta 1 m² de parede.
+#011 Programa que leia a largura e a altura, em metros, de uma parede, calcule sua área e a quentidade
+de tinta necessaria para pinta-la, sabendo que cada litro de tinta pinta 1 m² de parede.
 
 #012 Programa que leia o preço de um produto e mostre o reajuste com 5% de desconto.
 
 #013 Programa que leia o salario de um funcionario e mostre o seu reajuste de 15% de aumento.
 
-#014
+#014 Programa que leia uma temperatura em graus celsius e converta para fahrenheit.
+
+#015 Programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias
+pelos quais ele foi alugado. Calcula o preço a pagar, sabendo que o carro custa R$60,00 por dia e R$0,15
+por Km rodado.
+
+#016 Programa que leia um valor real qualquer e mostre a parte inteira do valor.
+
+#017 Programa que leia o comprimento do cateto oposto e do cateto adjacente de um triangulo retangulo e
+mostre o comprimento da hipotenusa.
+
+#018 Programa que leia um angulo qualquer e mostre o valor do seno, cosseno e tangente.
+
+#019 Programa que leia 4 nomes e mostre um deles aleatoriamente.
+
+#020 Programa que leia o nome de 4 pessoas e mostre uma ordem aleatoria com os nomes.
+
+#021 Programa que reproduz um arquivo mp3. (obs: nao funcionou na versao python3.8).
+
+#022 Programa que leia o nome completo de uma pessoa, mostre o nome com todas as letras maiúsculas e leminúsculas e quantas letras tem ao todo.
+
+#023 Programa que leia um numero de 0 a 999 e mostre na tela cada digito separado.
+
+#024 Programa que leia o nome da cidade onde a pessoa nasceu e mostre se a cidade começa com Santo.
+
+#025 Programa que leia o nome completo da pessoa e mostre se tem silva no nome.
+
+#026 Programa que leia uma frase e mostre quantas vezes aparece a letra a, em que posiçao ela aparece
+pela primeira vez e pela ultima vez.
+
+#027 Programa que leia o nome completo de uma pessoa e mostre o primeiro nome e tambem o ultimo sobrenome.
+
+#028 Programa que escolhe aleatoriamente um valor entre 0 e 5, e pessa para o usuario adivinhar.
+
+#029 Programa que leia a velocidade de um carro, caso esteja acima de 80,00 Km, mostre uma mensagem de
+infraçao com o valor da multa, sendo R$7,00 que para cada Km acima do limite.
+
+#030 Programa que leia um valor inteiro e diga se é par ou impar.
+
+#031 Programa que leia a distancia da viagem, e calcule o preço da passagem, sendo R$0,50 por km ate
+200Km de distancia e R$0,45 por km para distancias maiores.
+
+#032 Programa que leia o ano e mostre se ele é bissexto.
+
+#033 Programa que leia 3 valores e diga qual o maior e qual é o menor.
+
+#034 Programa que leia o salario do usuario e mostre seu reajuste, sendo que para salarios superiores a  
+R$1250,00 ha um reajuste de 10%, e para salarios inferios há um reajuste de 15%.
+
+#035 Programa que leia o tamanaho de 3 retas e diga se podem formar triangulo.
+
+#036 
