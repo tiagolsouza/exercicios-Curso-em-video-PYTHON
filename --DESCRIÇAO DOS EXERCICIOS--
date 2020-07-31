@@ -1,1 +1,29 @@
 DESCRIÇAO DOS EXERCICIOS
+
+#001 Programa que escreva hello world na tela.
+
+#002 Programa que leia o nome da pessoa e mostra mensagem de boas vindas.
+
+#003 Programa que leia dois numeros e mostra a soma entre eles.
+
+#004 Programa que leia algo digitado e mostre seu tipo primitivo, e todas as informaçoes possiveis.
+
+#005 Programa que leia um numero inteiro e mostre seu sucessor e antecessor.
+
+#006 Programa que leia um numero e mostre seu dobro, triplo e raiz quadrada.
+
+#007 Programa que leia duas notas e calcule sua media.
+
+#008 Programa que leia um numero em metros e converta em cm e mm.
+
+#009 Programa que leia um numero e mostre sua taboada.
+
+#010 Programa que leia um valor em reais e converta em dollares.
+
+#011 Programa que leia a largura e a altura, em metros, de uma parede, calcule sua área e a quentidade de tinta necessaria para pinta-la, sabendo que cada litro de tinta pinta 1 m² de parede.
+
+#012 Programa que leia o preço de um produto e mostre o reajuste com 5% de desconto.
+
+#013 Programa que leia o salario de um funcionario e mostre o seu reajuste de 15% de aumento.
+
+#014
