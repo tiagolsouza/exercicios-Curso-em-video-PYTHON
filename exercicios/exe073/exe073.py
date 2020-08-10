@@ -18,4 +18,5 @@ print(f'\033[34mOs times em ordem alfabética:  \033[1;35m{ordenado}\033[m')
 #print(f'\033[34mOs times em ordem alfabética:  \033[1;35m{sorted(brasileiro)}\033[m')
 
 print('\033[33m-=\033[m'*10)
-print('\033[34mO Chapecoense esta na \033[4m{}ª\033[0;34m posição.'.format(brasileiro.index('Chapecoense')+1))
+#print('\033[34mO Chapecoense esta na \033[4m{}ª\033[0;34m posição.'.format(brasileiro.index('Chapecoense')+1))
+print(f'\033[34mO Chapecoense esta na \033[4m{brasileiro.index("Chapecoense")+1}ª\033[0;34m posição.')
